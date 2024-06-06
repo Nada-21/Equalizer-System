@@ -1,0 +1,91 @@
+
+element.style {
+    overflow: visible;
+    width: 0px;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0%;
+    padding-top: 0px;
+}
+
+.css-om87sb {
+    width: 656px;
+    position: relative;
+    top: 0px;
+
+}
+.css-1u5klyf {
+    width: 662px;
+    position: relative;
+    top: 0px;
+}
+.css-1pdlh62 {
+    width: 662px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+.css-18e3th9 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    scroll-padding: 0px;
+}
+
+.css-163ttbj {
+    position: relative;
+    top: 0px;
+    background-color: rgb(240, 242, 246);
+    z-index: 999991;
+    min-width: 244px;
+    max-width: 550px;
+    transform: none;
+    transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
+}
+.css-1og2wzr {
+    width: 451px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0rem;
+    padding-left:3rem;
+    padding-right:3rem;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+.css-1fp2bqe {
+    width: 233px;
+
+    position: relative;
+}
+
+.css-hxt7ib {
+    padding-top: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.css-18ni7ap {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 0rem;
+    background: rgb(255, 255, 255);
+    outline: none;
+    z-index: 999990;
+    display: block;
+}
+
+element.style {
+    position: relative;
+    user-select: auto;
+    width: 290px;
+    height: 90%;
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
